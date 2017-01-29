@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">KidzPhone</string>
+    <string-array name="language_arrays">
+        <item>English</item>
+        <item>Spanish</item>
+        <item>French</item>
+    </string-array>
+    <string name="number_zero">0\n\nZero</string>
+    <string name="number_one">1\n\nOne</string>
+    <string name="number_tow">2\n\nTwo</string>
+    <string name="number_three">3\n\nThree</string>
+    <string name="number_four">4\n\nThree</string>
+    <string name="number_five">5\n\nFive</string>
+    <string name="number_six">6\n\nSix</string>
+    <string name="number_seven">7\n\nSeven</string>
+    <string name="number_eight">8\n\nEight</string>
+    <string name="number_nine">9\n\nNine</string>
+
+
+</resources>
